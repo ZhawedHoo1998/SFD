@@ -1,9 +1,90 @@
-<mxfile host="app.diagrams.net" modified="2024-04-23T03:37:44.441Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" version="24.2.8" etag="z88_3fowz0fHOvUKsPOC" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-23T06:21:50.184Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="8fYEvJnxxqlHlJOTmMoh" version="24.2.8" type="github">
   <diagram name="Page-1" id="ENqUgmlg4nKRxe8KaoVT">
-    <mxGraphModel>
+    <mxGraphModel dx="830" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="lXxhMTrG0740EP3hzuZU-34" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="300" y="80" width="527" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="lXxhMTrG0740EP3hzuZU-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="lXxhMTrG0740EP3hzuZU-34" source="lXxhMTrG0740EP3hzuZU-25" target="lXxhMTrG0740EP3hzuZU-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lXxhMTrG0740EP3hzuZU-25" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lXxhMTrG0740EP3hzuZU-34">
+          <mxGeometry width="300" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="lXxhMTrG0740EP3hzuZU-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lXxhMTrG0740EP3hzuZU-34" source="lXxhMTrG0740EP3hzuZU-12" target="lXxhMTrG0740EP3hzuZU-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lXxhMTrG0740EP3hzuZU-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="lXxhMTrG0740EP3hzuZU-34" source="lXxhMTrG0740EP3hzuZU-12" target="lXxhMTrG0740EP3hzuZU-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="130" />
+              <mxPoint x="130" y="83" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lXxhMTrG0740EP3hzuZU-12" value="嵌入式工规主板&lt;div&gt;飞凌RK3588&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lXxhMTrG0740EP3hzuZU-34">
+          <mxGeometry x="145" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lXxhMTrG0740EP3hzuZU-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lXxhMTrG0740EP3hzuZU-34" source="lXxhMTrG0740EP3hzuZU-13" target="lXxhMTrG0740EP3hzuZU-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lXxhMTrG0740EP3hzuZU-13" value="车载工业相机" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="lXxhMTrG0740EP3hzuZU-34">
+          <mxGeometry x="145" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lXxhMTrG0740EP3hzuZU-8" value="数据记录仪" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lXxhMTrG0740EP3hzuZU-34">
+          <mxGeometry x="90" y="250" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lXxhMTrG0740EP3hzuZU-10" value="Gige接口" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lXxhMTrG0740EP3hzuZU-34">
+          <mxGeometry x="190" y="70" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lXxhMTrG0740EP3hzuZU-11" value="电脑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lXxhMTrG0740EP3hzuZU-34">
+          <mxGeometry x="407" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lXxhMTrG0740EP3hzuZU-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="lXxhMTrG0740EP3hzuZU-34" source="lXxhMTrG0740EP3hzuZU-14" target="lXxhMTrG0740EP3hzuZU-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lXxhMTrG0740EP3hzuZU-14" value="车辆状态信息" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="lXxhMTrG0740EP3hzuZU-34">
+          <mxGeometry x="318" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lXxhMTrG0740EP3hzuZU-19" value="高低电平" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lXxhMTrG0740EP3hzuZU-34">
+          <mxGeometry x="360" y="70" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lXxhMTrG0740EP3hzuZU-20" value="固态硬盘" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="lXxhMTrG0740EP3hzuZU-34">
+          <mxGeometry x="145" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lXxhMTrG0740EP3hzuZU-22" value="sata接口" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lXxhMTrG0740EP3hzuZU-34">
+          <mxGeometry x="190" y="160" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lXxhMTrG0740EP3hzuZU-23" value="电源指示灯" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="lXxhMTrG0740EP3hzuZU-34">
+          <mxGeometry x="14" y="68" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lXxhMTrG0740EP3hzuZU-28" value="摄检指示灯" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="lXxhMTrG0740EP3hzuZU-34">
+          <mxGeometry x="14" y="115" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lXxhMTrG0740EP3hzuZU-29" value="录检指示灯" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="lXxhMTrG0740EP3hzuZU-34">
+          <mxGeometry x="14" y="162" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lXxhMTrG0740EP3hzuZU-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="lXxhMTrG0740EP3hzuZU-34" source="lXxhMTrG0740EP3hzuZU-12" target="lXxhMTrG0740EP3hzuZU-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="150" as="sourcePoint" />
+            <mxPoint x="190" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lXxhMTrG0740EP3hzuZU-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.996;entryY=0.549;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="lXxhMTrG0740EP3hzuZU-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="144" y="130" as="sourcePoint" />
+            <mxPoint x="112.60000000000014" y="178.4699999999999" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="130" y="130" />
+              <mxPoint x="130" y="179" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lXxhMTrG0740EP3hzuZU-36" value="usb连接线" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lXxhMTrG0740EP3hzuZU-34">
+          <mxGeometry x="320" y="140" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
